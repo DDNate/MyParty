@@ -1,0 +1,8 @@
+{
+  "name": "myParty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github_laxxx1:DDNate/myParty",
+  "author": "linax <linax@knownsec.com>",
+  "license": "MIT"
+}
